@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Freedium Redirect",
+  "version": "1.0",
+  "description": "Redirects the current page to Freedium",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Redirect to Freedium"
+  },
+  "permissions": ["tabs", "activeTab"]
+}
