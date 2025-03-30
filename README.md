@@ -98,6 +98,3 @@ This project is licensed under the MIT License.
 - **Freedium Team**: For providing the platform that inspired this extension.
 - **WebExtension API Documentation**: Helpful resources for cross-browser extension development.
 
----
-
-Feel free to modify this `README.md` to better suit your project's needs or to include additional information.
